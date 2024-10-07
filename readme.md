@@ -49,7 +49,7 @@ const isWithinBusinessHours = () => {
 
 // Quando o cliente estiver pronto
 client.on("ready", () => {
-  console.log("AUTO-BOT PRONTO!");
+  console.log("BOT-ZAP CONECTADO AO WHATSAPP");
 });
 
 // Gera o QR Code no terminal se necessário
