@@ -1,7 +1,7 @@
 
-# WhatsApp Support Bot
+# BOT ZAP
 
-WhatsApp Support Bot é um bot em Node.js que permite a automatização de atendimentos de suporte técnico via WhatsApp.
+BOT ZAP é um bot em Node.js que permite a automatização de atendimentos de suporte técnico via WhatsApp.
 
 ## Instalação
 
